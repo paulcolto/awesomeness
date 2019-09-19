@@ -7,7 +7,7 @@ html {
   background-color: yellow;
   background-image: url(/img/background.jpg);
   background-position: center;
-  background-size: cover;
+  background-size: 1000px 1000px;
   z-index: -1;
   background-color: rgba(0, 0, 0, 0.5);
 }
